@@ -40,12 +40,12 @@
         "ukphone": "kənˈstɪtʃuənt"
     },
     {
-        "name": "consitute",
+        "name": "constitute",
         "trans": [
             "组成，构成；建立，制定（法律史）"
         ],
-        "usphone": null,
-        "ukphone": null
+        "usphone": "ˈkɑːnstɪtuːt",
+        "ukphone": "ˈkɒnstɪtjuːt"
     },
     {
         "name": "constitution",
@@ -321,7 +321,9 @@
     },
     {
         "name": "stun",
-        "trans": "使震惊，使晕倒；给（某人）以深刻印象，使深深感动",
+        "trans": [
+            "使震惊，使晕倒；给（某人）以深刻印象，使深深感动"
+        ],
         "usphone": "stʌn",
         "ukphone": "stʌn"
     },
@@ -1206,12 +1208,12 @@
         "ukphone": "'neglɪdʒəbl"
     },
     {
-        "name": "prescrible",
+        "name": "prescribe",
         "trans": [
             "规定，指定；开药方，开处方"
         ],
-        "usphone": null,
-        "ukphone": null
+        "usphone": "prɪˈskraɪb",
+        "ukphone": "prɪˈskraɪb"
     },
     {
         "name": "prescription",
@@ -1982,12 +1984,12 @@
         "ukphone": "dɪˈstɔːrt"
     },
     {
-        "name": "dsitract",
+        "name": "distract",
         "trans": [
             "使转向；使分心，分散（思想）"
         ],
-        "usphone": null,
-        "ukphone": null
+        "usphone": "dɪˈstrækt",
+        "ukphone": "dɪˈstrækt"
     },
     {
         "name": "evolution",
@@ -3962,8 +3964,8 @@
         "trans": [
             "获得；获得物"
         ],
-        "usphone": null,
-        "ukphone": null
+        "usphone": "ˌækwɪˈzɪʃ(ə)n",
+        "ukphone": "ˌækwɪˈzɪʃ(ə)n"
     },
     {
         "name": "act",
